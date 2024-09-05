@@ -1,0 +1,12 @@
+Assets/*
+!Assets/Scenes
+!Assets/Scripts
+Library/*
+Logs/*
+Packages/*
+!Packages/manifest.json
+ProjectSettings/*
+UserSettings/*
+.vsconfig
+Assembly-CSharp.csproj
+FinalVersion4.sln
