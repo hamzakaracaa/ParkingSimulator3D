@@ -53,3 +53,5 @@ The core mechanics of the game are based on driving a car through a course, avoi
    git push origin feature/feature-name
 
 5. **Create a Pull Request:** Submit your pull request for review, detailing the changes made and the reason for them.
+
+   **Happy Coding 😊**
